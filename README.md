@@ -1,5 +1,19 @@
 # Cyclistic bike share project
 
+Through this project I managed to get some insights into data regarding the differences between bike usage of member and casual riders. I changed data types, created new varibales, checked for duplicated and missing data, removed data and finally did the data visualization.
+
+From the analysis of this dataset we can conclude following:
+
+ - Approximately 3/5 of riders are members, 2/5 are casual.
+ - Most rides happen aftenoon around the end of worktime (15-18).
+ - Member riders ride bikes consistently through the whole week, while the casual riders ride bikes with increase on friday and weekend.
+ - We can say that the average ride duration is consistent through every day of week, both for members and casual riders.
+ - Ride duration of casual riders is more then two times longer then ride duration of member riders through every day of week.
+ - Most bike rides happen in months with good weather (Jun-Oct), for both member and casual riders.
+average ride duration for casual riders is almost two times longer in months with good weather (Jan-20 min: Jul-40+ min), while there is no bigger difference for the member riders.
+ -80% of rides are made with docked bike. Member riders use slightly more classic bikes then casual riders.
+
+
 Data available at:
 https://divvy-tripdata.s3.amazonaws.com/index.html
 
